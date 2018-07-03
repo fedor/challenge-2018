@@ -1,7 +1,7 @@
 # Lalamove Software Engineer Challenge - Frontend
 
 ### Requirements
-- Get pick-up location and drop-off location from user, submit them to [mockApi](mockApi)
+- Get pick-up location and drop-off location from user, submit them to [mockApi](https://github.com/lalamove/challenge/tree/master/mockApi)
 - Display **driving route** returned by API on embedded [Google Map API](https://developers.google.com/maps/)
 - Should autocomplete address
 - Multi-stops is not required
